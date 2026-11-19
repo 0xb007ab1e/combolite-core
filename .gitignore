@@ -43,3 +43,8 @@ core.*
 *~
 .idea/
 .vscode/
+
+# Python doc-gate tooling (fork-only)
+__pycache__/
+*.pyc
+.pytest_cache/
